@@ -17,3 +17,4 @@ Your Olympic rings don't have to look like any of the examples. Feel free to rea
 Samples of Student Work   
 -----------------------   
 [Henry](https://trinket.io/embed/python/8a5f93e4ed?outputOnly=true&runOption=run&start=result)   
+[Emma](https://trinket.io/embed/python/1354012c8b?outputOnly=true&runOption=run&start=result)   
