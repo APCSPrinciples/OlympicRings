@@ -11,7 +11,7 @@ noFill()
  
 Optional Challenge
 ------------------
-Your Olympic rings don't have to look like any of the examples. Feel free to read about other Processing functions and add other elements to your Olympic design.
+Your Olympic rings don't have to look like any of the examples. Feel free to read about other Processing functions and add other elements to your Olympic design. If you want a challenge, you might use the `arc()` function instead of `ellipse()` to make interlocking rings.
 
 
 Samples of Student Work   
