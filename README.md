@@ -1,6 +1,6 @@
 Olympic Rings
 =======================
-In this assignment you will write a program that produces a design similar to the Olympic Rings with 5 differently colored circles. Your program will use the following functions (some more than once):
+In this assignment you will write a program that produces a design similar to the Olympic Rings with 5 differently colored circles. Your program might use the following functions (some more than once):
 ```python
 strokeWeight()
 stroke()
