@@ -16,5 +16,6 @@ Your Olympic rings don't have to look like any of the samples below. Feel free t
 
 Samples of Student Work   
 -----------------------   
+[Mandy](OlympicRingsMandy.PNG)   
 [Henry](OlympicRingsHenry.PNG)   
 [Emma](OlympicRingsEmma.PNG)   
