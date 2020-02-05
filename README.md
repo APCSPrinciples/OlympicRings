@@ -33,7 +33,7 @@ Resources for learning more
 
 Optional Challenge
 ------------------
-Your Olympic rings don't have to look like any of the samples below. Feel free to read about other [P5 functions](http://py.processing.org/reference/) and add other elements to your Olympic rings design. If you want a challenge, you might try to use the [`arc()`](http://py.processing.org/reference/arc.html) function instead of `circle()` to make *interlocking* rings like Henry and Emma's programs below.
+Your Olympic rings don't have to look like any of the samples below. Feel free to read about other [P5 functions](https://p5js.org/reference/) and add other elements to your Olympic rings design. If you want a challenge, you might try to use the [`arc()`](https://p5js.org/reference/#/p5/arc) function instead of `circle()` to make *interlocking* rings like Henry and Emma's programs below.
 
 
 Samples of Student Work   
