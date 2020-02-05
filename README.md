@@ -38,6 +38,8 @@ Your Olympic rings don't have to look like any of the samples below. Feel free t
 
 Samples of Student Work   
 -----------------------   
+[Curtis](https://editor.p5js.org/culee/present/RjS8wMgr)   
+[Miachaela](https://editor.p5js.org/michaela29/present/V2ZG81aK)   
 [Mandy](OlympicRingsMandy.PNG)   
 [Henry](OlympicRingsHenry.PNG)   
 [Emma](OlympicRingsEmma.PNG)   
