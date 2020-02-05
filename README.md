@@ -5,7 +5,7 @@ In this assignment you will write a program that produces a design similar to th
 
 ![](Olympic1.JPG)   
 
-You will notice the program is divided in to two parts or`function`s: `setup()` and `draw()`. In this assignment we'll leave the `setup()` as is and work with the draw function. Let's start by changing the background color to magenta. Change line 5 to `background(255,0,255);` and press the play button. You should now see a magenta background.
+You will notice the program is divided in to two parts each labeled as a `function`: `setup()` and `draw()`. In this assignment we'll leave the `setup()` as is and work with the second `draw` function. Let's start by changing the background color to magenta. Change line 5 to `background(255,0,255);` and press the play button. You should now see a magenta background.
 
 ![](Olympic2.JPG)    
 
