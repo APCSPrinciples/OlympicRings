@@ -9,7 +9,7 @@ You will notice the program is divided in to two parts each labeled as a `functi
 
 ![](Olympic2.JPG)    
 
-Experiment with the background until you are happy with it. The three numbers (called *arguments* specify the amount of red, green and blue in the range 0 - 255. Once you are happy with the background color you can begin the first ring. Add code after line 6 like this:   
+Experiment with the background until you are happy with it. The three numbers (called *arguments*) specify the amount of red, green and blue in the range 0 - 255. Once you are happy with the background color you can begin the first ring. Add code after line 6 like this:   
 ![](Olympic3.JPG)    
 
 `stroke` changes the color of the ring and `strokeWeight` changes its thickness. `circle(80,133,150)` means "draw a circle with a center (80,133) relative to the top left corner with a diameter of 150. By default the ring is filled with white. We can remove that fill with `noFill()` on line 7. We only need to do this once. Once the fill or stroke is set if effects all the code that is written below it:
