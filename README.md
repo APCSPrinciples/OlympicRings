@@ -12,24 +12,28 @@ You will notice the program is divided in to two parts or`function`s: `setup()` 
 Experiment with the background until you are happy with it. Now lets start on our first ring. Add code after line 6 like this:   
 ![](Olympic3.JPG)    
 
-In this assignment you will write a program that produces a design similar to the Olympic Rings with 5 differently colored circles. Your program might use the following functions (some more than once):
-```python
-strokeWeight()
-stroke()
-ellipse()
-size()
-noFill()
-```
+`stroke` changes the color of the ring and `strokeWeight` changes its thickness. `circle(80,133,150)` means "draw a circle with a center (80,133) relative to the top left corner with a diameter of 150. By default the ring is filled with white. We can remove that fill with `noFill()` on line 7. We only need to do this once. Once the fill or stroke is set if effects all the code that is written below it:
 
-Suggested steps to complete the assignment
+![](Olympic4.JPG)   
+
+Continue adding code to create more rings. You need to use the functions `circle` and `stroke`  more than once. Change the name of your program by clicking on the pencil. Give your program a meaningful name like `OlympicRings` and periodically save your work by choosing *File | Save*:
+
+![](OlympicName.jpg)
+
+When you are finished, copy the URL of your program by choosing 
+
+![](OlympicShare1.jpg)   
+![](OlympicShare2.jpg)    
+
+Resources for learning more
 ------------------------------------------
-1. You may find the videos [Making Drawings with Code](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/making-drawings-with-code) and [Coloring with Code](https://www.khanacademy.org/computing/computer-programming/programming/coloring/pt/coloring-with-code) helpful.
-2. Sign up for a free account at [p5js.org](https://editor.p5js.org/signup) and then start a new program.
-3. Give your program a meaningful name like `OlympicRings`
+1. [Making Drawings with Code](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/making-drawings-with-code)
+2. [Coloring with Code](https://www.khanacademy.org/computing/computer-programming/programming/coloring/pt/coloring-with-code)
+
 
 Optional Challenge
 ------------------
-Your Olympic rings don't have to look like any of the samples below. Feel free to read about other [Processing functions](http://py.processing.org/reference/) and add other elements to your Olympic rings design. If you want a challenge, you might try to use the [`arc()`](http://py.processing.org/reference/arc.html) function instead of `ellipse()` to make *interlocking* rings like Henry and Emma's programs below.
+Your Olympic rings don't have to look like any of the samples below. Feel free to read about other [P5 functions](http://py.processing.org/reference/) and add other elements to your Olympic rings design. If you want a challenge, you might try to use the [`arc()`](http://py.processing.org/reference/arc.html) function instead of `circle()` to make *interlocking* rings like Henry and Emma's programs below.
 
 
 Samples of Student Work   
