@@ -20,7 +20,7 @@ Continue adding code to create more rings. You need to use the functions `circle
 
 ![](OlympicName.jpg)
 
-When you are finished, copy the URL of your program by choosing 
+When you are finished, copy the URL of your program by choosing *File | Share* and copying the second link labeled *Present*. Submit the link to Google classroom by choosing *Add Link*.
 
 ![](OlympicShare1.jpg)   
 ![](OlympicShare2.jpg)    
