@@ -1,7 +1,7 @@
 ![](Olympic.png)      
 Olympic Rings
 =======================
-In this assignment you will write a program that produces a design similar to the Olympic Rings with 5 differently colored circles. We will write our first JavaScript program using the [P5 online editor](https://editor.p5js.org/). You will want to start by visitng the website and creating an account. Then you will see a screen that looks like this:
+In this assignment you will write a JavaScript program that produces a design similar to the Olympic Rings with 5 differently colored circles. We will write the program using the [P5 online editor](https://editor.p5js.org/). You will want to start by visitng the website and creating an account. Then you will see a screen that looks like this:
 
 ![](Olympic1.JPG)   
 
