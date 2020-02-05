@@ -1,5 +1,17 @@
+![](Olympic.PNG)    
 Olympic Rings
 =======================
+In this assignment you will write a program that produces a design similar to the Olympic Rings with 5 differently colored circles. We will write our first JavaScript program using the [P5 online editor](https://editor.p5js.org/). You will want to start by visitng the website and creating an account. Then you will see a screen that looks like this:
+
+![](Olympic1.JPG)   
+
+You will notice the program is divided in to two parts or`function`s: `setup()` and `draw()`. In this assignment we'll leave the `setup()` as is and work with the draw function. Let's start by changing the background color to magenta. Change line 5 to `background(255,0,255);` and press the play button. You should now see a magenta background.
+
+![](Olympic2.JPG)    
+
+Experiment with the background until you are happy with it. Now lets start on our first ring. Add code after line 6 like this:   
+![](Olympic3.JPG)    
+
 In this assignment you will write a program that produces a design similar to the Olympic Rings with 5 differently colored circles. Your program might use the following functions (some more than once):
 ```python
 strokeWeight()
