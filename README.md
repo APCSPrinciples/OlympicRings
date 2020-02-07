@@ -41,6 +41,8 @@ Samples of Student Work
 [Katelyn](https://editor.p5js.org/jizhang6/present/LNBKC_9A)   
 [Doan](https://editor.p5js.org/Duan25/present/43ca7kWM)   
 [Curtis](https://editor.p5js.org/culee/present/RjS8wMgr)   
+[Nikhita](https://editor.p5js.org/Bluesnow/present/H4SIhaWL)   
+[Bernice](https://editor.p5js.org/bernicelau430/present/UINruiZc)   
 [Miachaela](https://editor.p5js.org/michaela29/present/V2ZG81aK)   
 [Mandy](OlympicRingsMandy.PNG)   
 [Henry](OlympicRingsHenry.PNG)   
